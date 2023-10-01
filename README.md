@@ -15,7 +15,7 @@
 
 3. **Roster Update**:
    - Within your forked repository, find the **Participants HS23** list.
-   - Add a link to your GitHub profile.
+   - Edit the file to include a link to your GitHub profile.
 
 <details>
 
@@ -35,9 +35,8 @@ The list is located under `profile/README.md`
 
 ### Reflection:
 
-1. How does a personalized `README.md` benefit your GitHub profile?
-2. Describe the significance of forking in collaborative projects.
-3. What is the purpose of a Pull Request and how does it facilitate collaboration?
+1. Describe the significance of forking in collaborative projects.
+2. What is the purpose of a Pull Request and how does it facilitate collaboration?
 
 Give yourself a pat on the back! 🌟 These foundational steps are your gateway to a world of collaborative coding and open-source contributions. Keep up the momentum!
 
