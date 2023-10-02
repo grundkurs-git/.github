@@ -7,7 +7,8 @@ Noe
 
 ### Participants HS23
 
-- https://github.com/noeleont
+- https://github.com/noeleon
+- https://github.com/kristinwo
 
 <!--
 
