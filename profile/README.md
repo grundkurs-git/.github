@@ -8,7 +8,7 @@ Noe
 ### Participants HS23
 
 - https://github.com/noeleont
-- https://github.com/Timsched/Timsched/blob/main/README.md
+- https://github.com/Timsched
 <!--
 
 **Here are some ideas to get you started:**
