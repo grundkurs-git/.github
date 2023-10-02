@@ -11,7 +11,7 @@ Noe
 - https://github.com/ddd42-star
 - https://github.com/lieselty
 - https://github.com/ThoSch94
-
+- https://github.com/Yokopa
 <!--
 
 **Here are some ideas to get you started:**
