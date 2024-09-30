@@ -7,7 +7,10 @@ Noe
 
 ### Participants HS24 
 
-https://github.com/cr0sscheck
+
+- https://github.com/cr0sscheck
+- https://github.com/nalalenny
+- https://github.com/yjauslin
 
 ### Participants HS23
 
@@ -17,6 +20,7 @@ https://github.com/cr0sscheck
 - https://github.com/ddd42-star
 - https://github.com/lieselty
 - https://github.com/ThoSch94
+- https://github.com/lye101
 
 
 <!--
