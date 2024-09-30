@@ -6,6 +6,7 @@ Cheers,
 Noe
 
 ### Participants HS24 
+- https://github.com/mathilde733
 
 ### Participants HS23
 
