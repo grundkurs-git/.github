@@ -7,6 +7,8 @@ Noe
 
 ### Participants HS24 
 
+- https://github.com/yjauslin
+
 ### Participants HS23
 
 - https://github.com/noeleont
