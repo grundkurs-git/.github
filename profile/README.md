@@ -6,6 +6,7 @@ Cheers,
 Noe
 
 ### Participants HS24 
+- https://github.com/Ikiror
 
 - https://github.com/yjauslin
 
