@@ -6,6 +6,7 @@ Cheers,
 Noe
 
 ### Participants HS24 
+- https://github.com/albertw1706
 
 - https://github.com/yjauslin
 
