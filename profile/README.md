@@ -7,6 +7,8 @@ Noe
 
 ### Participants HS24 
 
+- https://github.com/lucahennet
+
 ### Participants HS23
 
 - https://github.com/noeleont
