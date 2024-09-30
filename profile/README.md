@@ -8,6 +8,7 @@ Noe
 ### Participants HS24 
 
 - https://github.com/yjauslin
+- https://github.com/ElenaGrafUZH
 
 ### Participants HS23
 
