@@ -7,7 +7,9 @@ Noe
 
 ### Participants HS24 
 
+- https://github.com/nalalenny
 - https://github.com/yjauslin
+
 
 ### Participants HS23
 
