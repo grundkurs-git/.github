@@ -14,7 +14,7 @@
       - Use "grundkurs-git" as name
 
 3. **Roster Update**:
-   - Within your forked repository, find the **Participants HS23** list.
+   - Within your forked repository, find the **Participants HS24** list.
    - Edit the file to include a link to your GitHub profile.
 
 <details>
