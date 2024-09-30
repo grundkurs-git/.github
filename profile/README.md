@@ -7,6 +7,8 @@ Noe
 
 ### Participants HS24 
 
+https://github.com/susannaa-s
+
 ### Participants HS23
 
 - https://github.com/noeleont
