@@ -8,6 +8,8 @@ Noe
 ### Participants HS24 
 
 - https://github.com/nalalenny
+- https://github.com/yjauslin
+
 
 ### Participants HS23
 
@@ -17,6 +19,7 @@ Noe
 - https://github.com/ddd42-star
 - https://github.com/lieselty
 - https://github.com/ThoSch94
+- https://github.com/lye101
 
 
 <!--
