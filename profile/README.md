@@ -6,7 +6,9 @@ Cheers,
 Noe
 
 ### Participants HS24 
+- https://github.com/azertyang
 
+  
 ### Participants HS23
 
 - https://github.com/noeleont
@@ -15,7 +17,6 @@ Noe
 - https://github.com/ddd42-star
 - https://github.com/lieselty
 - https://github.com/ThoSch94
-- https://github.com/azertyang
 
 
 <!--
