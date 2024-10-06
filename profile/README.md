@@ -9,6 +9,7 @@ Noe
 
 - https://github.com/nalalenny
 - https://github.com/yjauslin
+- https://github.com/Aline-b820
 
 
 ### Participants HS23
